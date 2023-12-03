@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Anime List</string>
+
+    <string name = "anime_name">Judul Anime</string>
+    <string name = "description">Deskripsi</string>
+    <string name = "about">About Fatur</string>
+    <string name = "mal">My Anime List</string>
+    <string name = "back">Back</string>
+    <string name = "fullname">Faturrohman Fairuz Zaki</string>
+    <string name = "student">Informatics Student</string>
+    <string name = "jogja">Special Region of Yogyakarta</string>
+    <string name = "detail">Anime Details</string>
+
+    <string name = "about_desc">Hai! Saya Faturrohman Fairuz Zaki. Sebagai mahasiswa Informatika yang bersemangat, saya merasa sangat terinspirasi oleh dunia coding dan teknologi. Cita-cita saya adalah menjadi seorang Android developer, dan setiap hari saya berusaha mengembangkan keterampilan yang diperlukan untuk mencapai tujuan tersebut. Kesenangan saya dalam membaca juga menjadi sumber pengetahuan tambahan yang sangat berharga. Saya yakin bahwa dengan semangat belajar dan dedikasi, saya dapat mencapai impian saya. Teruslah belajar dan berkembang, siapa tahu suatu hari nanti saya bisa menciptakan aplikasi Android yang inovatif dan bermanfaat.
+
+</string>
+
+    <string-array name="data_name">
+        <item>Sousou no Frieren</item>
+        <item>Fullmetal Alchemist: Brotherhood</item>
+        <item>Steins;Gate</item>
+        <item>Gintama Season 2</item>
+        <item>Hunter x Hunter (2011)</item>
+        <item>Gintama: The Final</item>
+        <item>Bleach: Sennen Kessen-hen</item>
+        <item>Shingeki no Kyojin Season 3 Part 2</item>
+        <item>Gintama Season 4</item>
+        <item>Gintama: Enchousen</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Selama perjalanan mereka selama satu dekade untuk mengalahkan Raja Iblis, anggota kelompok pahlawan - Himmel sendiri, pendeta Heiter, prajurit kerdil Eisen, dan penyihir elf Frieren - membentuk ikatan melalui petualangan dan pertempuran, menciptakan kenangan berharga yang tak terlupakan bagi sebagian besar dari mereka. Namun, waktu yang dihabiskan Frieren dengan kameradnya hanya sebanding dengan sebagian kecil dari hidupnya, yang telah berlangsung lebih dari seribu tahun. Ketika kelompok itu bubar setelah kemenangan mereka, Frieren kembali dengan santai ke "rutinitas" biasanya, mengumpulkan mantra di seluruh benua. Karena perbedaan persepsinya terhadap waktu, dia tampaknya tidak memiliki perasaan kuat terhadap pengalaman yang telah dia alami. Seiring berjalannya waktu, Frieren perlahan menyadari bagaimana hari-harinya di kelompok pahlawan benar-benar memengaruhinya. Melihat kematian dua dari mantan rekan seperjalanannya, Frieren mulai menyesali telah menganggap keberadaan mereka sebagai sesuatu yang dianggapnya enteng; dia bersumpah untuk lebih memahami manusia dan menciptakan hubungan pribadi yang nyata. Meskipun cerita perjalanan yang dulu begitu berkesan sudah lama berakhir, kisah baru sedang akan dimulai.</item>
+        <item>Setelah percobaan alkimia yang mengerikan berakhir dengan kegagalan di rumah Elric, saudara-saudara Edward dan Alphonse terdampar dalam kenyataan baru yang sangat tragis. Tanpa memperdulikan prinsip alkimia yang melarang transmutasi manusia, kedua anak itu mencoba menghidupkan kembali ibu mereka yang baru saja meninggal. Namun, yang terjadi justru adalah kehilangan pribadi yang brutal: tubuh Alphonse hancur berkeping-keping sementara Edward kehilangan satu kaki dan kemudian mengorbankan satu lengan untuk menjaga jiwa Alphonse tetap berada di dunia fisik dengan mengikatnya pada baju besi raksasa. Saudara-saudara itu diselamatkan oleh tetangga mereka, Pinako Rockbell, dan cucunya Winry. Dikenal sebagai keajaiban teknik bio-mekanikal, Winry menciptakan anggota prostetik untuk Edward dengan menggunakan "automail," logam yang kuat dan serbaguna yang digunakan dalam robot dan baju perang. Setelah bertahun-tahun berlatih, saudara Elric memulai pencarian untuk mengembalikan tubuh mereka dengan menemukan Batu Filsuf—permata kuat yang memungkinkan seorang alkemis menentang hukum pertukaran setara. Saat Edward menjadi seorang alkemis terkenal dengan julukan "Fullmetal," perjalanan kedua saudara ini terlibat dalam konspirasi yang berkembang dan mengancam nasib dunia.</item>
+        <item>Ilmuwan eksentrik Rintarou Okabe memiliki dahaga yang tak pernah berakhir untuk eksplorasi ilmiah. Bersama temannya yang ceroboh tapi baik hati, Mayuri Shiina, dan teman sekamarnya, Itaru Hashida, Rintarou mendirikan Laboratorium Gadget Masa Depan dengan harapan menciptakan inovasi teknologi yang membingungkan pikiran manusia. Meskipun klaim kemegahan, satu-satunya "gadget" yang mencolok yang trio itu ciptakan adalah sebuah microwave yang memiliki kekuatan misterius untuk mengubah pisang menjadi bubur hijau. Namun, ketika Rintarou memutuskan untuk menghadiri konferensi ilmuwan saraf Kurisu Makise tentang perjalanan waktu, dia mengalami serangkaian peristiwa aneh yang membuatnya yakin bahwa ada lebih banyak hal tersembunyi di balik "Phone Microwave" gadget. Rupanya, mereka dapat mengirim pesan teks ke masa lalu menggunakan microwave tersebut, dan Rintarou mulai lebih jauh mencoba "mesin waktu," menarik kemarahan dan perhatian organisasi misterius SERN. Akibat penemuan baru ini, Rintarou dan teman-temannya menemukan diri mereka dalam bahaya yang selalu ada. Saat dia berusaha mengurangi kerusakan yang telah disebabkan oleh penemuannya terhadap garis waktu, dia tidak hanya berjuang untuk menyelamatkan orang-orang yang dicintainya, tetapi juga melawan kemerosotan kesehatan mentalnya.</item>
+        <item>Setelah setahun absen, Shinpachi Shimura kembali ke Edo, hanya untuk menemui kejutan yang mengejutkan: Gintoki dan Kagura, rekan-rekannya di Yorozuya, telah menjadi karakter yang benar-benar berbeda! Melarikan diri dari markas Yorozuya dengan kebingungan, Shinpachi menemukan bahwa semua penduduk Edo telah mengalami perubahan yang sangat ekstrem, baik dalam penampilan maupun kepribadian. Yang paling tidak masuk akal, saudara perempuannya, Otae, telah menikah dengan kepala Shinsengumi dan pengejar yang tanpa malu-malu, Isao Kondou, dan sedang hamil dengan anak pertama mereka. Terkejut, Shinpachi setuju untuk bergabung dengan Shinsengumi atas permintaan Otae dan Kondou, dan menemukan transformasi yang lebih mengejutkan di dalam dan di luar jajaran organisasi itu. Namun, setelah mengetahui bahwa Wakil Kepala Toushirou Hijikata tetap tidak berubah, Shinpachi dan sekutu Shinsengumi yang tidak mungkin itu berusaha mengembalikan kota Edo seperti yang mereka ingat. Dengan lelucon yang lebih kotor, parodi yang nyeleneh, dan referensi yang tanpa malu-malu, Gintama mengikuti tim Yorozuya melalui lebih banyak petualangan konyol mereka di dunia yang penuh alien di Edo.</item>
+        <item>Para Hunter mengabdikan diri untuk menyelesaikan tugas-tugas berbahaya, mulai dari menjelajahi wilayah yang belum dipetakan di dunia hingga menemukan barang langka dan monster. Sebelum menjadi seorang Hunter, seseorang harus lulus Ujian Hunter—proses seleksi berisiko tinggi di mana sebagian besar peserta akhirnya cacat atau bahkan lebih buruk, tewas. Peserta yang berambisi yang menantang ujian terkenal ini membawa alasan mereka sendiri. Yang mendorong Gon Freecss, yang berusia 12 tahun, adalah menemukan Ging, ayahnya yang juga seorang Hunter. Percaya bahwa dia akan bertemu dengan ayahnya dengan menjadi seorang Hunter, Gon mengambil langkah pertama untuk berjalan di jalur yang sama. Selama Ujian Hunter, Gon berteman dengan mahasiswa kedokteran Leorio Paladiknight, Kurapika yang penuh dendam, dan mantan pembunuh bayaran Killua Zoldyck. Meskipun motif mereka sangat berbeda satu sama lain, mereka bersatu untuk mencapai tujuan bersama dan mulai menjelajahi dunia berbahaya.</item>
+        <item>Telah berlalu dua tahun sejak invasi Tendoshuu ke Terminal Pusat O-Edo. Sejak itu, Yorozuya telah menjalani kehidupan masing-masing. Menyadari kembalinya Utsuro, Gintoki Sakata mulai menyelidiki garis ley Bumi untuk mencari jejak Altana Utsuro. Setelah bertemu dengan sisa-sisa Tendoshuu—yang terus berusaha mencari keabadian—Gintoki kembali ke Edo. Kemudian, Shinsengumi yang berkumpul kembali dan Yorozuya memulai serangan terhadap Terminal Pusat yang diduduki. Dengan Altana yang diambil dari reruntuhan kapal Tendoshuu berbahaya untuk meledak, Yorozuya dan sekutu mereka bertarung melawan musuh mereka sambil keselamatan Edo—dan seluruh dunia—menggantung pada keseimbangan. Memenuhi keinginan gurunya, murid-murid mantan Shouyou Yoshida bersatu dan menghidupkan kembali masa lalu mereka satu kali terakhir dalam upaya untuk menyelamatkan masa depan mereka.</item>
+        <item>Pengganti Soul Reaper, Ichigo Kurosaki, menghabiskan harinya untuk melawan Hollow, roh jahat berbahaya yang mengancam Kota Karakura. Ichigo menjalankan tugasnya dengan sekutu terdekatnya: Orihime Inoue, teman masa kecilnya dengan bakat penyembuhan; Yasutora Sado, teman sekelasnya yang memiliki kekuatan super manusia; dan Uryuu Ishida, rival Quincy Ichigo. Rutinitas pengawal Ichigo terganggu oleh munculnya tiba-tiba Asguiaro Ebern, Arrancar berbahaya yang menandai kembalinya Yhwach, seorang raja Quincy kuno. Yhwach berusaha menghidupkan kembali perseteruan darah historis antara Soul Reaper dan Quincy, dan dia berusaha untuk menghapus baik dunia manusia maupun Soul Society untuk selamanya. Yhwach meluncurkan invasi dua arah ke Soul Society dan Hueco Mundo, rumah Hollow dan Arrancar. Sebagai balasan, Ichigo dan teman-temannya harus bertarung bersama sekutu dan musuh lama untuk mengakhiri kampanye kekejaman Yhwach sebelum dunia itu sendiri berakhir.</item>
+        <item>Dengan tujuan mengembalikan harapan yang semakin berkurang di kalangan manusia, Pasukan Pengintai memulai misi untuk merebut kembali Wall Maria, di mana pertempuran melawan "Titan" yang kejam kembali berlangsung. Kembali ke Distrik Shiganshina yang hancur yang dahulu adalah rumahnya, Eren Yeager dan Pasukan Pengintai menemukan kota tersebut anehnya kosong dari keberadaan Titan. Bahkan setelah gerbang luar ditutup, mereka tidak menemui perlawanan yang aneh. Misi berjalan lancar hingga Armin Arlert, yang sangat mencurigai ketidakhadiran musuh, menemukan tanda-tanda yang mengkhawatirkan dari potensi rencana melawan mereka. Shingeki no Kyojin Season 3 Part 2 mengikuti Eren saat dia bersumpah untuk mengambil kembali segalanya yang pernah menjadi miliknya. Bersama dengan dia, Pasukan Pengintai berusaha—melalui pengorbanan tak terhitung—untuk membuka jalan menuju kemenangan dan mengungkap rahasia yang terkunci di ruang bawah tanah keluarga Yeager.</item>
+        <item>Setelah absen selama satu tahun, Shinpachi Shimura kembali ke Edo, hanya untuk menemui kejutan yang mengejutkan: Gintoki dan Kagura, rekan-rekannya di Yorozuya, telah menjadi karakter yang benar-benar berbeda! Melarikan diri dari markas Yorozuya dengan kebingungan, Shinpachi menemukan bahwa semua penduduk Edo telah mengalami perubahan yang sangat ekstrem, baik dalam penampilan maupun kepribadian. Yang paling tidak masuk akal, saudara perempuannya, Otae, telah menikah dengan kepala Shinsengumi dan pengejar yang tanpa malu-malu, Isao Kondou, dan sedang hamil dengan anak pertama mereka. Terkejut, Shinpachi setuju untuk bergabung dengan Shinsengumi atas permintaan Otae dan Kondou, dan menemukan transformasi yang lebih mengejutkan di dalam dan di luar jajaran organisasi itu. Namun, setelah mengetahui bahwa Wakil Kepala Toushirou Hijikata tetap tidak berubah, Shinpachi dan sekutu Shinsengumi yang tidak mungkin itu berusaha mengembalikan kota Edo seperti yang mereka ingat. Dengan lelucon yang lebih kotor, parodi yang nyeleneh, dan referensi yang tanpa malu-malu, Gintama mengikuti tim Yorozuya melalui petualangan konyol mereka di dunia yang penuh alien dan warna-warni di Edo.</item>
+        <item>Gintoki, Shinpachi, dan Kagura kembali sebagai anggota tim Yorozuya yang menyukai kesenangan namun tidak punya uang! Hidup di Edo versi realitas alternatif, di mana pedang dilarang dan penguasa alien telah menaklukkan Jepang, mereka mencoba untuk bertahan hidup dengan melakukan pekerjaan apa pun yang bisa mereka dapatkan. Namun, Shinpachi dan Kagura masih belum dibayar. Apakah benar Gin-chan menghabiskan semua uang itu bermain pachinko? Sementara itu, ketika Gintoki mabuk tersandar pulang suatu malam, sebuah pesawat ruang angkasa alien jatuh di dekatnya. Seorang anggota kru yang terluka parah muncul dari pesawat dan memberikan Gintoki sebuah perangkat aneh berbentuk jam, memperingatkannya bahwa itu sangat kuat dan harus dijaga. Salah mengira itu sebagai jam alarmnya, Gintoki melanjutkan untuk menghancurkan perangkat itu keesokan paginya dan tiba-tiba menemukan bahwa dunia di luar apartemennya telah berhenti bergerak. Dengan Kagura dan Shinpachi di sisinya, dia berangkat untuk memperbaiki perangkat itu; meskipun, seperti biasa, tidak pernah semudah itu bagi tim Yorozuya. Penuh dengan humor yang khas dan momen-momen emosional yang menyentuh, musim keempat Gintama menemukan Gintoki dan teman-temannya menghadapi misadventure paling lucu dan krisis paling berbahaya yang pernah mereka alami.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://cdn.myanimelist.net/images/anime/1015/138006.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1935/127974.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/3/72078.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1337/99013.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1245/116760.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1908/135431.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1517/100633.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/4/50361.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1452/123686.jpg</item>
+    </string-array>
+
+    <string-array name="studio">
+        <item>Madhouse Studio</item>
+        <item>Bones Studio</item>
+        <item>White Fox Studio</item>
+        <item>Sunrise Studio</item>
+        <item>Madhouse Studio</item>
+        <item>Bandai Namco Pictures</item>
+        <item>Pierrot Studio</item>
+        <item>Wit Studio</item>
+        <item>Bandai Namco Pictures</item>
+        <item>Sunrise Studio</item>
+    </string-array>
+
+    <string-array name="episode">
+        <item>28 Episodes</item>
+        <item>64 Episodes</item>
+        <item>24 Episodes</item>
+        <item>51 Episodes</item>
+        <item>148 Episodes</item>
+        <item>1 Episode</item>
+        <item>13 Episodes</item>
+        <item>10 Episodes</item>
+        <item>51 Episodes</item>
+        <item>13 Episodes</item>
+    </string-array>
+
+    <string-array name="aired">
+        <item>Fall 2023</item>
+        <item>Spring 2009</item>
+        <item>Spring 2011</item>
+        <item>Spring 2011</item>
+        <item>Fall 2011</item>
+        <item>January 8, 2021</item>
+        <item>Fall 2022</item>
+        <item>Spring 2019</item>
+        <item>Spring 2015</item>
+        <item>Fall 2012</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>9.12</item>
+        <item>0.09</item>
+        <item>9.07</item>
+        <item>9.05</item>
+        <item>9.03</item>
+        <item>9.04</item>
+        <item>9.04</item>
+        <item>9.05</item>
+        <item>9.03</item>
+        <item>9.03</item>
+    </string-array>
+</resources>
