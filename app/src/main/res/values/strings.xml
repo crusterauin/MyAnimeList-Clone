@@ -105,4 +105,30 @@
         <item>9.03</item>
         <item>9.03</item>
     </string-array>
+
+    <string-array name="linkMAL">
+        <item>https://myanimelist.net/anime/52991/Sousou_no_Frieren</item>
+        <item>https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood</item>
+        <item>https://myanimelist.net/anime/9253/Steins_Gate</item>
+        <item>https://myanimelist.net/anime/9969/Gintama</item>
+        <item>https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011</item>
+        <item>https://myanimelist.net/anime/39486/Gintama__The_Final</item>
+        <item>https://myanimelist.net/anime/41467/Bleach__Sennen_Kessen-hen</item>
+        <item>https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2</item>
+        <item>https://myanimelist.net/anime/28977/Gintama%C2%B0</item>
+        <item>https://myanimelist.net/anime/15417/Gintama__Enchousen</item>
+    </string-array>
+
+    <string-array name="linkYT">
+        <item>https://youtu.be/tR8YH0G67Rk</item>
+        <item>https://youtu.be/--IcmZkvL0Q</item>
+        <item>https://youtu.be/27OZc-ku6is</item>
+        <item>https://youtu.be/aoW1MpWd2TY?feature=shared</item>
+        <item>https://youtu.be/D9iTQRB4XRk</item>
+        <item>https://youtu.be/Zn1filVUyf8</item>
+        <item>https://youtu.be/e8YBesRKq_U</item>
+        <item>https://youtu.be/hKHepjfj5Tw</item>
+        <item>https://youtu.be/wVxiCIDTPS4?feature=shared</item>
+        <item>https://www.youtube.com/watch?v=XxYjzfMMp0s</item>
+    </string-array>
 </resources>

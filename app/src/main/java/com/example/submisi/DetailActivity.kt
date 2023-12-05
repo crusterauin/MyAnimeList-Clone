@@ -1,5 +1,6 @@
 package com.example.submisi
 
+import android.content.Intent
 import android.os.Build
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -35,6 +36,11 @@ class DetailActivity : AppCompatActivity() {
         Glide.with(this)
             .load(dataAnime?.photo)
             .into(binding.posterAnime)
+
+        val share = Intent(Intent.ACTION_SEND);
+        share.setType("text/plain");
+        share.putExtra(Intent.EXTRA_TEXT, "");
+        startActivity(Intent.createChooser(share, "Share Link"));
 
         binding.include.imageButton.setOnClickListener {
             finish()

@@ -11,5 +11,7 @@ data class Anime(
     val studio: String,
     val episode: String,
     val aired: String,
-    val rating: String
+    val rating: String,
+    val linkMAL: String,
+    val linkYT: String
 ) : Parcelable
