@@ -96,19 +96,19 @@
         app:layout_constraintTop_toBottomOf="@+id/star">
 
         <ImageButton
-            android:id="@+id/imageButton3"
+            android:id="@+id/openMAL"
             android:layout_width="50dp"
             android:layout_height="match_parent"
             android:layout_marginEnd="64dp"
             android:background="@drawable/logo"
             app:layout_column="2"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toStartOf="@+id/imageButton4"
+            app:layout_constraintEnd_toStartOf="@+id/playPV"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_row="0" />
 
         <ImageButton
-            android:id="@+id/imageButton4"
+            android:id="@+id/playPV"
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:background="@drawable/play"
@@ -121,14 +121,14 @@
             app:layout_row="0" />
 
         <ImageButton
-            android:id="@+id/imageButton5"
+            android:id="@+id/share"
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:layout_marginStart="64dp"
             android:background="@drawable/share"
             app:layout_column="1"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintStart_toEndOf="@+id/imageButton4"
+            app:layout_constraintStart_toEndOf="@+id/playPV"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_row="0" />
 

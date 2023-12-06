@@ -42,8 +42,6 @@ class About : AppCompatActivity() {
             startActivity(discord)
         }
 
-
-
         binding.include.imageButton.setOnClickListener {
             finish()
         }

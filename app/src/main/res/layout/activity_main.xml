@@ -7,6 +7,7 @@
     tools:context=".MainActivity"
     android:id="@+id/main">
 
+
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/constraintLayout"
         android:layout_width="match_parent"
@@ -14,13 +15,13 @@
         android:background="@color/blue"
         android:elevation="16dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
         <ImageView
             android:layout_width="130dp"
             android:layout_height="match_parent"
-            android:layout_marginStart="5dp"
             android:layout_marginTop="4dp"
             android:contentDescription="@string/mal"
             android:src="@drawable/mal" />
@@ -29,16 +30,15 @@
             android:id="@+id/about"
             android:layout_width="45dp"
             android:layout_height="45dp"
-            android:layout_marginEnd="15dp"
             android:layout_gravity="end"
+            android:layout_marginEnd="15dp"
+            android:contentDescription="@string/about"
             android:elevation="10dp"
             android:rotation="0"
             android:src="@drawable/me"
             app:civ_border_color="@color/white"
-            app:civ_border_width="2dp"
-            android:contentDescription="@string/about" />
+            app:civ_border_width="2dp" />
     </androidx.appcompat.widget.Toolbar>
-
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_anime"

@@ -34,13 +34,15 @@ class MainActivity : AppCompatActivity() {
             val dataName = resources.getStringArray(R.array.data_name)
             val dataDescription = resources.getStringArray(R.array.data_description)
             val dataPhoto = resources.getStringArray(R.array.data_photo)
+            val dataRating = resources.getStringArray(R.array.rating)
             val dataStudio = resources.getStringArray(R.array.studio)
             val dataEpisode = resources.getStringArray(R.array.episode)
             val dataAired = resources.getStringArray(R.array.aired)
-            val dataRating = resources.getStringArray(R.array.rating)
+            val dataLinkMAL = resources.getStringArray(R.array.linkMAL)
+            val dataLinkYT = resources.getStringArray(R.array.linkYT)
             val listHero = ArrayList<Anime>()
             for (i in dataName.indices) {
-                val anime = Anime(dataName[i], dataDescription[i], dataPhoto[i], dataStudio[i], dataEpisode[i], dataAired[i], dataRating[i])
+                val anime = Anime(dataName[i], dataDescription[i], dataPhoto[i], dataStudio[i], dataEpisode[i], dataAired[i], dataRating[i], dataLinkMAL[i], dataLinkYT[i])
                 listHero.add(anime)
             }
             return listHero

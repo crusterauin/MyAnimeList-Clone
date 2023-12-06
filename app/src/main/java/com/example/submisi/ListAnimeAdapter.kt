@@ -22,16 +22,19 @@ class ListAnimeAdapter(private val listAnime: ArrayList<Anime>) : RecyclerView.A
     override fun getItemCount(): Int = listAnime.size
 
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
-        val (name, description, photo) = listAnime[position]
+        val (name, description, photo, studio, episode, aired, rating, linkMAL, linkYT) = listAnime[position]
         Glide.with(holder.itemView.context)
             .load(photo)
             .into(holder.binding.imgItemPhoto)
         holder.binding.tvItemName.text = name
         holder.binding.tvItemDescription.text = description
+        holder.binding.tvItemRating.text = rating
+        holder.binding.tvItemStudio.text = studio
 
         holder.itemView.setOnClickListener {
             val intentDetail = Intent(holder.itemView.context, DetailActivity::class.java)
             intentDetail.putExtra("key_anime", listAnime[holder.adapterPosition])
+            intentDetail.putExtra("key_anime_list", listAnime)
             holder.itemView.context.startActivity(intentDetail)
         }
     }

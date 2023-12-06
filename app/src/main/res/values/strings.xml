@@ -4,10 +4,11 @@
     <string name = "anime_name">Judul Anime</string>
     <string name = "description">Deskripsi</string>
     <string name = "about">About Fatur</string>
+    <string name = "rating_anime">Rating</string>
     <string name = "mal">My Anime List</string>
     <string name = "back">Back</string>
     <string name = "fullname">Faturrohman Fairuz Zaki</string>
-    <string name = "student">Informatics Student</string>
+    <string name = "email">fairuzzaky2004@gmail.com</string>
     <string name = "jogja">Special Region of Yogyakarta</string>
     <string name = "detail">Anime Details</string>
 
