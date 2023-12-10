@@ -23,9 +23,8 @@ class MainActivity : AppCompatActivity() {
         list.addAll(listAnime)
         showRecyclerList()
 
-        binding.about.setOnClickListener() {
+        binding.aboutPage?.setOnClickListener() {
             onImageButtonClick(it)
-
         }
     }
 
@@ -55,7 +54,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun onImageButtonClick(view: android.view.View) {
-        val intent = Intent(this, About::class.java)
+        val intent = Intent(this, AboutPage::class.java)
         startActivity(intent)
     }
 }

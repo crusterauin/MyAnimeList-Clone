@@ -17,6 +17,7 @@
 
         <TextView
             android:id="@+id/textView"
+            android:fontFamily="@font/jakartabold"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="25dp"

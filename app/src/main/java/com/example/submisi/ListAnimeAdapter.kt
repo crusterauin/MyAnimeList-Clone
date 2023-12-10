@@ -8,12 +8,6 @@ import com.bumptech.glide.Glide
 import com.example.submisi.databinding.ItemRowAnimeBinding
 
 class ListAnimeAdapter(private val listAnime: ArrayList<Anime>) : RecyclerView.Adapter<ListAnimeAdapter.ListViewHolder>() {
-    private lateinit var onItemClickCallback: OnItemClickCallback
-
-    fun setOnItemClickCallback(onItemClickCallback: OnItemClickCallback) {
-        this.onItemClickCallback = onItemClickCallback
-    }
-
     override fun onCreateViewHolder(viewGroup: ViewGroup, i: Int): ListViewHolder {
         val binding = ItemRowAnimeBinding.inflate(LayoutInflater.from(viewGroup.context), viewGroup, false)
         return ListViewHolder(binding)
@@ -40,8 +34,4 @@ class ListAnimeAdapter(private val listAnime: ArrayList<Anime>) : RecyclerView.A
     }
 
     class ListViewHolder(var binding: ItemRowAnimeBinding) : RecyclerView.ViewHolder(binding.root)
-
-    interface OnItemClickCallback {
-        fun onItemClicked(data: Anime)
-    }
 }

@@ -9,6 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.example.submisi.databinding.DetailAnimeBinding
 
+@Suppress("DEPRECATION")
 class DetailActivity : AppCompatActivity() {
 
     private lateinit var binding: DetailAnimeBinding
@@ -49,22 +50,22 @@ class DetailActivity : AppCompatActivity() {
         val linkYTArray = resources.getStringArray(R.array.linkYT)
         val linkYT = position?.let {linkYTArray.getOrNull(it)}
 
-        val share = Intent(Intent.ACTION_SEND);
-        share.type = "text/plain";
+        val share = Intent(Intent.ACTION_SEND)
+        share.type = "text/plain"
         val shareMessage = "Check out this anime:\n$linkMAL"
-        share.putExtra(Intent.EXTRA_TEXT, shareMessage);
+        share.putExtra(Intent.EXTRA_TEXT, shareMessage)
 
-        val playPV = Intent(Intent.ACTION_VIEW,);
+        val playPV = Intent(Intent.ACTION_VIEW)
         linkYT?.let {
             playPV.data = Uri.parse(it)
         }
 
-        val openMAL = Intent(Intent.ACTION_VIEW);
+        val openMAL = Intent(Intent.ACTION_VIEW)
         linkMAL?.let {
             openMAL.data = Uri.parse(it)
         }
 
-        val btnIntentShare: ImageButton = binding.share
+        val btnIntentShare: ImageButton = binding.actionShare
         btnIntentShare.setOnClickListener{
             startActivity(Intent.createChooser(share, "Share Link"))
         }

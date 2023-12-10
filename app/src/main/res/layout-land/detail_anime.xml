@@ -42,13 +42,13 @@
 
         <TextView
             android:id="@+id/judul_anime"
-            android:layout_width="240dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
-            android:text="@string/judul_anime"
             android:fontFamily="@font/jakartabold"
-            android:textStyle="bold"
+            android:text="@string/judul_anime"
             android:textSize="25sp"
+            android:textStyle="bold"
             app:layout_constraintStart_toEndOf="@+id/poster_anime"
             app:layout_constraintTop_toBottomOf="@+id/studio" />
 
@@ -145,7 +145,6 @@
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <ImageView
-            android:contentDescription="@string/rating_anime"
             android:id="@+id/star"
             android:layout_width="70dp"
             android:layout_height="70dp"

@@ -1,18 +1,26 @@
 <resources>
-    <string name="app_name">Anime List</string>
+    <string name="app_name">My Anime List Clone
+    </string>
 
-    <string name = "anime_name">Judul Anime</string>
-    <string name = "description">Deskripsi</string>
-    <string name = "about">About Fatur</string>
-    <string name = "rating_anime">Rating</string>
-    <string name = "mal">My Anime List</string>
-    <string name = "back">Back</string>
-    <string name = "fullname">Faturrohman Fairuz Zaki</string>
-    <string name = "email">fairuzzaky2004@gmail.com</string>
-    <string name = "jogja">Special Region of Yogyakarta</string>
-    <string name = "detail">Anime Details</string>
+    <string name="anime_name">Judul Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About Fatur</string>
+    <string name="rating_anime">Rating</string>
+    <string name="mal">My Anime List</string>
+    <string name="back">Back</string>
+    <string name="fullname">Faturrohman Fairuz Zaki</string>
+    <string name="email">fairuzzaky2004@gmail.com</string>
+    <string name="jogja">Special Region of Yogyakarta</string>
+    <string name="detail">Anime Details</string>
+    <string name="action_share">Share</string>
+    <string name="poster_anime">Poster Anime</string>
+    <string name="pv_anime">PV Anime</string>
+    <string name="studio">Studio</string>
+    <string name="judul_anime">Judul Anime</string>
+    <string name="episode">Jumlah Episode</string>
+    <string name="rilis">Rilis</string>
 
-    <string name = "about_desc">Hai! Saya Faturrohman Fairuz Zaki. Sebagai mahasiswa Informatika yang bersemangat, saya merasa sangat terinspirasi oleh dunia coding dan teknologi. Cita-cita saya adalah menjadi seorang Android developer, dan setiap hari saya berusaha mengembangkan keterampilan yang diperlukan untuk mencapai tujuan tersebut. Kesenangan saya dalam membaca juga menjadi sumber pengetahuan tambahan yang sangat berharga. Saya yakin bahwa dengan semangat belajar dan dedikasi, saya dapat mencapai impian saya. Teruslah belajar dan berkembang, siapa tahu suatu hari nanti saya bisa menciptakan aplikasi Android yang inovatif dan bermanfaat.
+    <string name="about_desc">Hai! Saya Faturrohman Fairuz Zaki. Sebagai mahasiswa Informatika yang bersemangat, saya merasa sangat terinspirasi oleh dunia coding dan teknologi. Cita-cita saya adalah menjadi seorang Android developer, dan setiap hari saya berusaha mengembangkan keterampilan yang diperlukan untuk mencapai tujuan tersebut. Kesenangan saya dalam membaca juga menjadi sumber pengetahuan tambahan yang sangat berharga. Saya yakin bahwa dengan semangat belajar dan dedikasi, saya dapat mencapai impian saya. Teruslah belajar dan berkembang, siapa tahu suatu hari nanti saya bisa menciptakan aplikasi Android yang inovatif dan bermanfaat.
 
 </string>
 

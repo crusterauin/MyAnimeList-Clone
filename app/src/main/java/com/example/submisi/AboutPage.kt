@@ -5,17 +5,17 @@ import android.net.Uri
 import android.os.Bundle
 import android.widget.ImageButton
 import androidx.appcompat.app.AppCompatActivity
-import com.example.submisi.databinding.AboutBinding
+import com.example.submisi.databinding.AboutPageBinding
 
 
-class About : AppCompatActivity() {
+class AboutPage : AppCompatActivity() {
 
-    private lateinit var binding: AboutBinding
+    private lateinit var binding: AboutPageBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        binding = AboutBinding.inflate(layoutInflater)
+        binding = AboutPageBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
         binding.include.textView.text = getString(R.string.about)

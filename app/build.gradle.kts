@@ -14,7 +14,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.submisi"
-        minSdk = 24
+        minSdk = 30
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
@@ -41,6 +41,7 @@ android {
 }
 
 dependencies {
+    implementation ("androidx.cardview:cardview:latest_version")
     implementation ("de.hdodenhof:circleimageview:3.1.0")
     implementation("com.github.bumptech.glide:glide:4.16.0")
     implementation("androidx.core:core-ktx:1.9.0")
